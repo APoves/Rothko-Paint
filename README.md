@@ -11,8 +11,6 @@ Me ha gustado mucho la idea de poder pensar que con un poco de HTML y mano con C
 
 Este proyecto me ha ayudado mucho a comprender la importancia de los márgenes, la distribución y su aplicación, por lo que todo es un suma 😁.
 
-¿Tú también ves el parecido entre los cuadros, verdad? 😂 😂 
-
 
 Enlace a LinkedIn: www.linkedin.com/in/auroramarinapoves
 Enlace a Github: https://github.com/APoves
